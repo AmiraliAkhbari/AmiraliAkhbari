@@ -21,13 +21,6 @@ Junior Web Developer | Passionate about Frontend & Backend Development
 
 ---
 
-## 📂 Projects
-Here are some of my recent works:
-- [Project 1](#) - Short description of project 1
-- [Project 2](#) - Short description of project 2
-
----
-
 ## 📫 Contact Me
 - **GitHub:** [(https://github.com/AmiraliAkhbari)]
 - **Email:** dfg2amirali@gmail.com
