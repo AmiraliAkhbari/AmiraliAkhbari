@@ -29,7 +29,7 @@ Here are some of my recent works:
 ---
 
 ## 📫 Contact Me
-- **GitHub:** [Your GitHub Link](https://github.com/AmiraliAkhbari)
+- **GitHub:** [(https://github.com/AmiraliAkhbari)]
 - **Email:** dfg2amirali@gmail.com
 
 ---
