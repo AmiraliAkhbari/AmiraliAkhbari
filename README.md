@@ -1,16 +1,37 @@
 ## Hi there 👋
 
-<!--
-**AmiraliAkhbari/AmiraliAkhbari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Amir
 
-Here are some ideas to get you started:
+Junior Web Developer | Passionate about Frontend & Backend Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+- Currently learning **HTML**, **CSS**, **JavaScript**, **React**, **Tailwind CSS**, and **GSAP**
+- Planning to start **Backend development** with **Node.js** & **Express**
+- Interested in building interactive, user-friendly, and creative web applications
+- Always learning and improving my skills
+
+---
+
+## 🛠 Skills
+- **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS  
+- **Animations:** GSAP  
+- **Currently Learning:** Advanced React concepts, UI/UX best practices  
+
+---
+
+## 📂 Projects
+Here are some of my recent works:
+- [Project 1](#) - Short description of project 1
+- [Project 2](#) - Short description of project 2
+
+---
+
+## 📫 Contact Me
+- **GitHub:** [Your GitHub Link](https://github.com/yourusername)
+- **Email:** your.email@example.com
+
+---
+
+⭐️ *Feel free to explore my repositories and connect with me!*
